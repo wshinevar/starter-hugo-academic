@@ -23,10 +23,8 @@ design:
       - 20px
       - "0"
 ---
-##
-##
-##
-##
-##
-##
-## Gros Morne National Park, Newfoundland, Canada
+
+
+
+
+Gros Morne National Park, Newfoundland, Canada
