@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: wshinevar@gmail.com
+    link: mailto:wshinevar@gmail.com
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=1ioRdf4AAAAJ&hl=en
