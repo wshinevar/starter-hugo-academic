@@ -6,7 +6,7 @@ widget: blank
 widget_id: header
 headless: true
 weight: 15
-title: "##Integrating Geophysics and Geochemistry to Understand Tectonics"
+title: Integrating Geophysics and Geochemistry to Understand Tectonics
 subtitle: ""
 active: true
 design:
@@ -15,7 +15,7 @@ design:
     gradient_start: ""
     gradient_end: ""
     text_color_light: false
-    image: karina-25-.jpg
+    image: dsc01691.jpg
   spacing:
     padding:
       - 20px
@@ -23,8 +23,4 @@ design:
       - 20px
       - "0"
 ---
-
-
-
-
 Gros Morne National Park, Newfoundland, Canada
