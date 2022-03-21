@@ -7,6 +7,7 @@ interests:
   - Geophysics
   - Petrology
   - Continental Evolution
+  - Tectonics
 social:
   - icon: envelope
     icon_pack: fas
