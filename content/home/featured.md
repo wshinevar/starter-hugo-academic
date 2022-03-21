@@ -1,6 +1,6 @@
 ---
 widget: featured
-widget_id: recent-publications
+widget_id: featured-publications
 headless: true
 weight: 80
 title: Recent Publications
