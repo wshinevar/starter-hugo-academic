@@ -6,7 +6,7 @@ widget: blank
 widget_id: header
 headless: true
 weight: 15
-title: Academic Template
+title: Integrating Geophysics and Geochemistry to Understands Tectonics
 subtitle: ""
 active: true
 design:
