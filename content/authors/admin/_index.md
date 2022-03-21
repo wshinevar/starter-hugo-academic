@@ -38,4 +38,4 @@ highlight_name: true
 ---
 My research focuses on understanding the chemical and physical evolution of continental and oceanic lithosphere over different periods of Earth history. In particular, I am interested in interpreting geophysical data sets, especially seismic wave speed and heat flow, in terms of geochemical and geological processes using interdisciplinary methods like thermodynamic modelling.
 
-<!--EndFragment-->{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--EndFragment-->{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_shinevar_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
