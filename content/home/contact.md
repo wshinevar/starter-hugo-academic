@@ -29,8 +29,7 @@ content:
     latitude: '37.4275'
     longitude: '-122.1697'
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Office Hours for Summer 2022 course GEOL1010 TBD'
 
 
 design:
