@@ -12,9 +12,10 @@ active: true
 design:
   columns: "1"
   background:
-    gradient_start: DarkGreen
-    gradient_end: ForestGreen
+    gradient_start: ""
+    gradient_end: ""
     text_color_light: true
+    image: karina-25-.jpg
   spacing:
     padding:
       - 20px
@@ -22,4 +23,4 @@ design:
       - 20px
       - "0"
 ---
-## aaa
+## Welcome to my website!
