@@ -14,7 +14,7 @@ design:
   background:
     gradient_start: ""
     gradient_end: ""
-    text_color_light: true
+    text_color_light: false
     image: karina-25-.jpg
   spacing:
     padding:
