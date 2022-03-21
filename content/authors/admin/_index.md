@@ -12,7 +12,7 @@ social:
     icon_pack: fas
     link: wshinevar@gmail.com
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=1ioRdf4AAAAJ&hl=en
   - icon: github
     icon_pack: fab
