@@ -6,7 +6,7 @@ widget: blank
 widget_id: header
 headless: true
 weight: 15
-title: Integrating Geophysics and Geochemistry to Understands Tectonics
+title: Integrating Geophysics and Geochemistry to Understand Tectonics
 subtitle: ""
 active: true
 design:
