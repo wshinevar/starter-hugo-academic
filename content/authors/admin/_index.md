@@ -4,9 +4,9 @@ role: NSF EAR Postdoctoral Fellow
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Geophysics
+  - Petrology
+  - Continental Evolution
 social:
   - icon: envelope
     icon_pack: fas
