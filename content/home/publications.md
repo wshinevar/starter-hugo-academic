@@ -3,7 +3,7 @@ widget: pages
 widget_id: publicationList
 headless: true
 weight: 90
-title: All Publications
+title: Publications
 subtitle: ""
 content:
   filters:
@@ -23,4 +23,3 @@ design:
   view: citation
   columns: "2"
 ---
-
