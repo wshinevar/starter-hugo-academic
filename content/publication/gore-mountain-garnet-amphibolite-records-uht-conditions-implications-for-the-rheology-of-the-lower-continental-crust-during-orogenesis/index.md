@@ -36,7 +36,7 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: "Garnet diffusion models for ~ 5cm garnets from the GMGA. "
+  caption: "~ 5 cm radius garnets from the Gore Mountain Garnet Amphibolite (GMGA). "
 summary: "Our results on peak metamorphic P–T conditions based on
   thermobarometry, diffusion models, and thermodynamic modelling indicate that
   the Gore Mountain Megacrystic Amphibolite (GMGA) formed at
