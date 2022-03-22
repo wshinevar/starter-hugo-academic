@@ -14,7 +14,7 @@ design:
   background:
     gradient_start: ""
     gradient_end: ""
-    text_color_light: true
+    text_color_light: false
     image: dsc01691.jpg
   spacing:
     padding:
@@ -26,4 +26,4 @@ design:
       - "0"
 ---
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<div style="text-align: right"> Gros Morne National Park, Newfoundland, Canada </div>
+<div style="text-align: right"> <span style="color:white">Gros Morne National Park, Newfoundland, Canada </span></div>
