@@ -6,7 +6,8 @@ bio: ""
 interests:
   - Geophysics
   - Petrology
-  - Continental Evolution
+  - Crustal Formation and Evolution
+  - Rheology
   - Tectonics
 social:
   - icon: envelope
