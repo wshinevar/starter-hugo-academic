@@ -20,7 +20,7 @@ social:
     link: https://github.com/wshinevar
 organizations:
   - name: University of Colorado, Boulder
-    url: colorado.edu
+    url: www.colorado.edu
 education:
   courses:
     - course: PhD in Geophysics
