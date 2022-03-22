@@ -5,8 +5,8 @@ draft: false
 featured: false
 external_link: https://github.com/wshinevar/garnetDiffusion
 image:
-  filename: ""
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
-The linked github repository includes a finite-difference multi-component garnet diffusion model for a radially symmetric sphere using the garnet diffusivities from Chu and Ague (2015).
+The linked github repository includes a finite-difference multi-component garnet diffusion model for a radially symmetric sphere using the garnet diffusivities from Chu and Ague (2015) used in Shinevar et al. (2021).
