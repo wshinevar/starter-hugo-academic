@@ -14,7 +14,7 @@ design:
   background:
     gradient_start: ""
     gradient_end: ""
-    text_color_light: false
+    text_color_light: true
     image: dsc01691.jpg
   spacing:
     padding:
