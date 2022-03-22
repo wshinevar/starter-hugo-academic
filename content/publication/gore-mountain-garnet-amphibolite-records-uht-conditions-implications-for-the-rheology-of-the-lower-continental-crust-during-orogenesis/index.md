@@ -33,7 +33,7 @@ abstract: The Gore Mountain Garnet Amphibolite (GMGA), part of the
 draft: false
 featured: true
 image:
-  filename: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/petrology/62/4/10.1093_petrology_egab007/5/egab007f17.jpeg?Expires=1650982458&Signature=2ngf5CKEMV7vqqi-PrceS4rzEJPIMGqCZQQfCeyA1xpKDs4fVlyW~PPtR6Q1M6ACzw3QTyVEXTGXotipgzxHIBi98mTq5lxQy-VLCjJuvsZoWdtXwxiN3hAb8FqUXSPpuyGDU05FVBZOogUhXrREQPTvV4pk~9aspjKQK1ePH067LZiSjmNrxnuZsPbHLNcBvunK2w4yiVF4zdT2rf18FhbWjzfa7MeszCzh3QPP0ZdBKCYQSncYHk-zfLtSGZ6A8tHtAVcR4~PpdfMIMQWgoPgtUncyD~C21H5GPZWmHmbQDtogcsR6m0h6UvQ05PLzBYPcLYjjPfQWY5ZhkHUrEA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: "Garnet diffusion models for ~ 5cm garnets from the GMGA. "
@@ -44,5 +44,5 @@ summary: "Our results on peak metamorphic P–T conditions based on
   significantly hotter than previously estimated. Diffusion models pinned by
   nearby cooling ages require the GMGA to initially cool quickly (9·1 °C Ma–1),
   followed by slower cooling (2·6 °C Ma–1). "
-date: 2021-03-22T14:12:34.789Z
+date: 2022-03-22T14:12:34.789Z
 ---
