@@ -9,3 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+The link above will take you to the SCEC website which hosts the 1D/diffused 2D steady-state geotherm model code used in Shinevar et al. (2018).
