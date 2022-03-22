@@ -46,7 +46,7 @@ url_source: ""
 url_video: ""
 title: "Gore Mountain Garnet Amphibolite Records UHT Conditions: Implications
   for the Rheology of the Lower Continental Crust during Orogenesis"
-doi: ""
+doi: https://doi.org/10.1093/petrology/egab007
 featured: true
 tags: []
 projects: []
