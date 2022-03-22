@@ -44,5 +44,5 @@ summary: "Our results on peak metamorphic P–T conditions based on
   significantly hotter than previously estimated. Diffusion models pinned by
   nearby cooling ages require the GMGA to initially cool quickly (9·1 °C Ma–1),
   followed by slower cooling (2·6 °C Ma–1). "
-date: 2022-03-22T14:12:34.789Z
+date: 2021-04-22T14:12:34.789Z
 ---
