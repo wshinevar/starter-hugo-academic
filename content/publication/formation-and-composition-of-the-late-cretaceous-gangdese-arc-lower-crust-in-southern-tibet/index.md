@@ -10,7 +10,7 @@ authors:
   - HF Zhang
 doi: https://doi.org/10.1007/s00410-020-01696-y
 publication: Published in *Contributions to Mineralogy and Petrology*
-publication_short: Published in *CMP*
+publication_short: ""
 abstract: Arc lower crust plays a critical role in processing mantle-derived
   basaltic melts into the intermediate continental crust, yet can only be
   studied indirectly or in exposed arc sections. Compared with the relatively
