@@ -5,6 +5,7 @@ description = "Use the website builder to easily build your site with 50+ widget
 homepage = "https://github.com/wowchemy/starter-hugo-academic/"
 demosite = "https://wowchemy.com/templates/"
 min_version = "0.84"
+copyright = ""
 tags = ["widgets",
         "resume",
         "portfolio",
@@ -48,4 +49,4 @@ features = ["page builder", "widgets", "themes", "search", "research publication
   name = ""
   homepage = ""
   repo = ""
-  copyright = ""
+  
