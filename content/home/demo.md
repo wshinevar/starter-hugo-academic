@@ -18,7 +18,7 @@ design:
     image: dsc01691.jpg
   spacing:
     padding:
-      - 20px
+      - 1000px
       - "0"
       - 1000px
       - "0"
