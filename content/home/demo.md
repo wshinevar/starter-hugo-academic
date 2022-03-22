@@ -26,4 +26,4 @@ design:
       - "0"
 ---
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<div style="text-align: right"> <span style="color:white">Gros Morne National Park, Newfoundland, Canada </span></div>
+<div style="text-align: right"> <span style="color:lightgray">Gros Morne National Park, Newfoundland, Canada </span></div>
