@@ -5,7 +5,7 @@ draft: false
 featured: false
 external_link: https://www.scec.org/research/ctm#:~:text=Overview,Williams%20and%20DeAngelo%20(2011).
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
