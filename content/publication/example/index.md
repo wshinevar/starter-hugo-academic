@@ -28,9 +28,7 @@ authors:
   - WJ Shinevar
   - O Jagoutz
   - JA VanTongeren
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 publication: In *Journal of Petrology*
 summary: >+
   Our results on peak metamorphic P–T conditions based on thermobarometry,
