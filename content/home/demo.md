@@ -7,7 +7,7 @@ widget_id: header
 headless: true
 weight: 15
 title: Integrating Geophysics and Geochemistry to Understand Tectonics
-subtitle: Gros Morne National Park, Newfoundland, Canada
+subtitle: ""
 active: true
 design:
   columns: "1"
@@ -25,3 +25,4 @@ design:
       - 1000px
       - "0"
 ---
+Gros Morne National Park, Newfoundland, Canada
