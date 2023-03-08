@@ -14,8 +14,8 @@ authors:
   - M. D.
   - "& Van der Hilst"
   - R.
-doi: https://doi.org/10.1002/essoar.10512490.1
-publication: submitted to *Earth and Planetary Science Letters*
+doi: https://doi.org/10.1016/j.epsl.2022.117965
+publication: "*Earth and Planetary Science Letters*"
 publication_short: ""
 draft: false
 featured: false
