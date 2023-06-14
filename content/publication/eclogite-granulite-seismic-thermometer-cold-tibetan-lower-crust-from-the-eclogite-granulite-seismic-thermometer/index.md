@@ -1,9 +1,9 @@
 ---
-title: Eclogite-Granulite Seismic Thermometer]{Cold Tibetan Lower Crust from the
-  Eclogite-Granulite Seismic Thermometer
+title: Cold Tibetan Lower Crust from the Eclogite-Granulite Seismic Thermometer
 publication_types:
   - "2"
-authors: []
+authors:
+  - WJ Shinevar & V Schulte-Pelkum
 publication: submitted to *Geology*
 draft: false
 featured: false
