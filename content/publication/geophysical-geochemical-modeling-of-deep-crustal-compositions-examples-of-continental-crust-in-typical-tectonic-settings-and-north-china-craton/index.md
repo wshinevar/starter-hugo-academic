@@ -18,13 +18,13 @@ authors:
   - H. F.
   - "& Jin"
   - Z. M.
-doi: https://doi.org/10.1002/essoar.10512339.1
-publication: "submitted to *Journal of Geophysical Research: Solid Earth*"
+doi: " https://doi.org/10.1029/2022JB025536"
+publication: "*Journal of Geophysical Research: Solid Earth*"
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-09-27T16:09:59.129Z
+date: 2023-05-13T16:09:00.000Z
 ---
